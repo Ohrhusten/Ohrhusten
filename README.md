@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Daniel
-- 👨‍🎓 I've a Bachelor's degreee in computer science
-- 🌱 I’m currently studiing at [KIT](https://www.kit.edu/index.php)
+- 👨‍🎓 I've a Master's degree in computer science
 - 📫 You can reach me via email: daniel.f.schild[at]gmail.com
 
 <p align="center">
